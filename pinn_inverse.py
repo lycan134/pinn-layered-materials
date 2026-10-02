@@ -10,10 +10,10 @@ from torch import nn
 
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "outputs" / "sensor_temperatures_80_0.025.csv"
-OUT = ROOT / "outputs" / "pinn_inverse_hard_flux_seed42_lbfgs2000"
+OUT = ROOT / "outputs" / "pinn_inverse_hard_flux_seed44_lbfgs2000"
 OUT.mkdir(parents=True, exist_ok=True)
 
-SEED = 42
+SEED = 44
 ADAM_STEPS = 5000
 LBFGS_STEPS = 2000
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
