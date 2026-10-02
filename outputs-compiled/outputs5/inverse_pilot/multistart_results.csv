@@ -1,0 +1,7 @@
+layout,initial_k2,initial_R,estimated_k2,estimated_R,rmse_K,success,message
+same_layer,0.5,0.002,0.9960219334308336,0.0009935585435923854,0.0009045804149784492,True,`xtol` termination condition is satisfied.
+same_layer,2.0,0.0002,0.996021929006863,0.0009935585365193854,0.0009045804150019849,True,`ftol` termination condition is satisfied.
+same_layer,5.0,0.005,0.9960219319667198,0.0009935585404775107,0.0009045804150015353,True,`xtol` termination condition is satisfied.
+across_interface,0.5,0.002,0.9977224152596429,0.0009967968611719492,0.0007721994304539436,True,`xtol` termination condition is satisfied.
+across_interface,2.0,0.0002,0.9977224149385556,0.0009967968607147762,0.0007721994304701623,True,`xtol` termination condition is satisfied.
+across_interface,5.0,0.005,0.9977224748185207,0.0009967969471637562,0.000772199429342047,True,Both `ftol` and `xtol` termination conditions are satisfied.

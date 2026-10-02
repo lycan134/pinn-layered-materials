@@ -1,0 +1,2 @@
+seed,device,k2,R_interface,sensor_rmse_K,elapsed_s,validation_total,validation_pde,validation_left_bc,validation_right_bc,validation_flux_continuity,validation_interface_jump,validation_data
+42,cuda,1.0,0.0010000000000000002,0.02148094412820447,263.05578510000487,0.01323223787002381,0.00450156712758995,0.008185069420299626,1.4198326765164957e-05,9.68432904743285e-05,6.541493638351086e-05,3.691447685112327e-05
